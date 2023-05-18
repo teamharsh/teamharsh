@@ -1,5 +1,5 @@
 # 💫 About Me:
-Harsh Kumar is a Front end Developer. I have strong technical skills and I am ECE undergraduate student of 2022-26 batch from Govt. Purnea College Of Engineering affiliated with Bihar Engineering University Patna. Currently I am learning DSA and Java. <br><br>Please feel free to get in touch with me via email at harshforcoding@gmail.com
+Harsh Kumar is a Front end Developer. I have strong technical skills and I am ECE undergraduate student of 2022-26 batch from Govt. Purnea College Of Engineering affiliated with Bihar Engineering University Patna. <br><br>Please feel free to get in touch with me via email at harshforcoding@gmail.com
 
 
 ## 🌐 Socials:

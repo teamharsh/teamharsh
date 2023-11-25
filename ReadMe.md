@@ -5,10 +5,6 @@
 <div align="center">
 <img src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif" align="center" height="150" width="150"" />
 </div>  
-  
-
-### <div align="center">I’m a Front-End Developer by passion and living now in Purnia, Bihar.<br> I am pursuing graduation in Electronic and Communication Engineering.</div>  
-  
 
 - 🌱 I’m currently learning [React](https://react.dev/)  
   

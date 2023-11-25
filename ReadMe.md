@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I’m a Front-End Developer by passion and living now in Purnia, Bihar.<br> I am pursuing graduation in <div color="purple">Electronic and Communication Engineering</div>.</div>  
+### <div align="center">I’m a Front-End Developer by passion and living now in Purnia, Bihar.<br> I am pursuing graduation in Electronic and Communication Engineering.</div>  
   
 
 - 🌱 I’m currently learning [React](https://react.dev/)  
@@ -92,10 +92,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=teamharsh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamharsh&hide_border=true&layout=compact" align="center" /></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=teamharsh&show_icons=true&count_private=true&hide_border=true" align="center" />
+     <br>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamharsh&hide_border=true&layout=compact" align="center" />
+</div>  

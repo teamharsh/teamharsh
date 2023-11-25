@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I’m a Front-End Developer by passion and living now in Purnia, Bihar. I am pursuing graduation in Electronic and Communication Engineering.</div>  
+### <div align="center">I’m a Front-End Developer by passion and living now in Purnia, Bihar.<br> I am pursuing graduation in Electronic and Communication Engineering.</div>  
   
 
 - 🌱 I’m currently learning [React](https://react.dev/)  

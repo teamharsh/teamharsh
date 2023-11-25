@@ -9,7 +9,10 @@
 - 🌱 I’m currently learning [React](https://react.dev/)  
   
 
-- ❓ Ask me about anything related to JavaScript and related technologies  
+- ❓ Ask me about anything related to JavaScript and related technologies
+
+
+- 🌱 I’m ECE undergraduate student of the 2022-26 batch
   
 
 - ⚡ Fun fact:The most popular indentation style for coding is spaces.  

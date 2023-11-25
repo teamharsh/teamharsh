@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif" align="center" style="width: 100%" />
+<img src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif" align="center" style="width: 50% height: 50%" />
 </div>  
   
 

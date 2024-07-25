@@ -6,7 +6,7 @@
 <img src="https://blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif" align="center" height="150" width="150"" />
 </div>  
 
-- 🌱 I’m currently learning [React](https://react.dev/)  
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)  
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies
